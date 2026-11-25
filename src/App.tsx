@@ -102,7 +102,7 @@ export default function App() {
     <main className="app">
       <header className="hero">
         <p className="eyebrow">Stackblaze Builder</p>
-        <h1>Hello from a preview</h1>
+        <h1>Hello from a preview, again</h1>
         <p className="lede">
           Supabase is wired through <code>VITE_SUPABASE_URL</code> and{" "}
           <code>VITE_SUPABASE_ANON_KEY</code>.
